@@ -1,0 +1,7 @@
+body{font-family:'Arial','Sans-serif';}
+.commentBox{background:#dfe3ee;padding:3px 3px 0px 3px;}
+.commentForm{margin-top:0px;background:#8b9dc2;padding:10px;}
+.author{width:100%;}
+.comment{width:100%;border-bottom:1px solid #8b9dc2;margin-top:10px;}
+.comment:last-child{border-bottom:0px;}
+.text{width:100%;margin-bottom:5px;}
